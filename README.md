@@ -7,6 +7,7 @@ npm install discord.js dotenv
 
 Create .env file like this:
 
+```
 BOT_TOKEN=
 CLIENT_ID=
 GUILD_ID=
@@ -16,5 +17,6 @@ DB_PASS=
 DB_NAME=
 WHITELIST_ROLE_ID=
 STAFF_ROLE_ID=
+```
 
 and Enjoy
